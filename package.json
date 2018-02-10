@@ -1,0 +1,28 @@
+{
+  "name": "project-euler-program-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pali.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyahayumt/project-ruler-program-4.git"
+  },
+  "keywords": [
+    "pali"
+  ],
+  "author": "damt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dyahayumt/project-ruler-program-4/issues"
+  },
+  "homepage": "https://github.com/dyahayumt/project-ruler-program-4#readme",
+  "devDependencies": {
+    "jest": "^22.2.2"
+  }
+}
